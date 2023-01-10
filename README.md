@@ -3,8 +3,8 @@
 
 
 # ScreenShots
-<!-- ![](wildfire.png) -->
-{On going}
+![](NewsGrid.png)
+<!-- {On going} -->
 
 ## Built With
 - CSS Grid
