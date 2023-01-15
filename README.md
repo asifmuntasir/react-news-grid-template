@@ -1,15 +1,34 @@
 # Title-Info
-> It is a Grid template for react by using Vite App.
+> It is a News website template for react by using Vite App. It is fully responsive site. Here I've used CSS Grid system to design all the section. There are six components like as Header, Home, Signle Article component, Article details component, About and Footer component. I have design it for my practice about complex and Advance CSS properties. :slightly_smiling_face:
 
-
-# ScreenShots
-![](NewsGrid.png)
-<!-- {On going} -->
 
 ## Built With
 - CSS Grid
 - React
+- React Router (Latest Version)
 - Vite App
+
+
+# ScreenShots
+
+> Full Webiste
+![](NewsGrid.png)
+
+> About Page
+![](about-page.png)
+
+> Article Page
+![](article-details-page.png)
+
+> Responsive Mode (768px)
+![](responsive-768.png)
+
+> Responsive Mode (Tablet)
+![](tablet-mode.png)
+
+> Responsive Mode (600px)
+![](responsive-600.png)
+
 
 ## Live Demo
 For the link to the live demo, [Click here](https://github.com/asifmuntasir/react-news-grid-template.git)
